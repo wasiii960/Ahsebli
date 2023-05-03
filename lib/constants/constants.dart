@@ -1,0 +1,43 @@
+
+class Constants{
+  static const monthNameDayYearFormat = 'MMMM dd yyyy';
+  static const monthDayYearFormat = 'MM dd yyyy';
+  static const dayCommaMonthYearFormat = 'dd, MM yyyy';
+  static const dayCommaMonthNameYearFormat = 'dd, MMMM yyyy';
+  static const monthCommaDayNameYearFormat = 'MM, dd yyyy';
+  static const successCode = 200;
+  static const failureCode = 400;
+  static const notFoundCode = 404;
+  static const walkThroughSkipped = 'walkThroughSkipped';
+  static const name = 'name';
+  static const password = 'password';
+  static const email = 'email';
+  static const emailAddress = 'emailAddress';
+  static const username = 'username';
+  static const code = 'code';
+  static const phoneNumber = 'phone_number';
+  static const jwtToken = 'jwtToken';
+  static const user = 'user';
+  static const authorization = 'Authorization';
+  static const contentType = 'Content-Type';
+  static const loggedIn = 'loggedIn';
+  static const applicationJsonCharset = 'application/json; charset=UTF-8';
+  static const profileImage = 'profile_image';
+  static const PATCH = 'PATCH';
+  static const query = 'query';
+  static const company = 'company';
+  static const directOperatorContact = 'direct_operator_phone_number';
+  static const serialNumber = 'serial_number';
+  static const contactEmail = 'contact_email';
+  static const description = 'description';
+  static const userId = 'userID';
+  static const machineID = 'macineId';
+  static const note = 'note';
+  static const contact = 'message';
+  static const country = 'country';
+  static const countryCode = 'country_code';
+  static const id = 'id';
+  static const machine = 'machine';
+  static const networkPlaceholder = 'http://5.44.234.89:8080/static/images/default/profile_palceholder_red.png';
+  static const whiteCircleNetworkPlaceholer = 'http://5.44.234.89:8080/static/images/default/white_circle_placeholder.png';
+}
