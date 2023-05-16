@@ -1,6 +1,6 @@
 # usama_projects
 
-A new Flutter project.
+A new Flutter project using local storage.
 
 ## Getting Started
 
